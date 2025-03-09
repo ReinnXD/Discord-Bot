@@ -1,5 +1,6 @@
 # Bot Discord 
 _by rein. Dev_
+
 Support gw: [Saweria](https://saweria.co/reinndev "Saweria")
 
 Subscribe YouTube: [@reinnx](https://youtube.com/@reinnx "YouTube") (no conctent currently)
