@@ -10,7 +10,7 @@ cara run bot discord ini gmpang banget all you need is internet and browser
 * Step 2: Buat App/bot pada Discord Developer Portal
 * Step 3: Adjust bot sesuai kebutuhan
 * Step 4: Copy bot token dan invite bot ke server discord mu
-* Step 5: Buka [Replit](replit.com "Replit")
+* Step 5: Buka [Replit](https://replit.com/~ "Replit")
 * Step 6: Buat App dengan template python
 * Step 7: Pada terminal Replit jalankan perintah `pip install discord.py python-dotenv`
 * Step 8: Buat file main.py paste code python pada folder ini
