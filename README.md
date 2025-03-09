@@ -1,8 +1,10 @@
 # Bot Discord 
 _by rein. Dev_
 Support gw: [Saweria](https://saweria.co/reinndev "Saweria")
-Subscribe YouTube: [YouTube](https://youtube.com/@reinnx "YouTube") (no conctent currently)
-Follow TikTok: [TikTok](https://tiktok.com/@ryzzxd_ "TikTok")
+
+Subscribe YouTube: [@reinnx](https://youtube.com/@reinnx "YouTube") (no conctent currently)
+
+Follow TikTok: [ryzzxd_](https://tiktok.com/@ryzzxd_ "TikTok")
 
 ## How to use?
 cara run bot discord ini gmpang banget all you need is internet and browser
