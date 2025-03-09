@@ -5,7 +5,7 @@ Support gw: [Saweria](https://saweria.co/reinndev "Saweria")
 
 Subscribe YouTube: [@reinnx](https://youtube.com/@reinnx "YouTube") (no conctent currently)
 
-Follow TikTok: [ryzzxd_](https://tiktok.com/@ryzzxd_ "TikTok")
+Follow TikTok: [@ryzzxd_](https://tiktok.com/@ryzzxd_ "TikTok")
 
 ## How to use?
 cara run bot discord ini gmpang banget all you need is internet and browser
